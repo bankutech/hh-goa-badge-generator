@@ -1,5 +1,6 @@
-# 🌴 Hacker House Goa 2026 — Builder Card & Profile Frame Generator
+# hh-goa-badge-generator
 
+## Overview
 > **The official, ultra-fast, zero-friction Builder Card & Profile Frame Generator for Hacker House Goa 2026.**  
 > Create, customize, download in 4K resolution, and share directly on X (Twitter).
 
@@ -11,37 +12,37 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- **⚡ Zero Authentication & Friction**: No login, no signup, no database required. 100% private and client-side.
-- **📸 Smart Photo Processing**:
+- ** Zero Authentication & Friction**: No login, no signup, no database required. 100% private and client-side.
+- ** Smart Photo Processing**:
   - Drag-and-drop or file select.
   - Native **Apple HEIC/HEIF conversion** in-browser.
   - Automatic compression via web workers (fast sub-second processing).
   - Fine-grained face positioning: **Zoom (0.5x - 2.5x)**, **Pan X/Y**, and **Rotation (-45° to +45°)**.
-- **🎴 2 Distinct Modes**:
+- ** 2 Distinct Modes**:
   1. **Builder Card**: Official 4:5 conference badge pass with dynamic holographic sheen, attendee tier badges, QR verification code, NFC chip graphic, laser barcode, and flip-to-view back details.
   2. **Profile Frame**: Circular 1:1 avatar badge with animated neon glow ring, circular SVG typography, and verified builder banner.
-- **🎲 60+ Curated Builder Titles**: Instant shuffle dice randomizer (e.g. *Autonomous Agent Architect, Solana Speedster, ZK Cryptomancer, Full-Stack Alchemist, High-Frequency Hacker*).
-- **🎨 6 Tropical & Cyber Themes**:
+- ** 60+ Curated Builder Titles**: Instant shuffle dice randomizer (e.g. *Autonomous Agent Architect, Solana Speedster, ZK Cryptomancer, Full-Stack Alchemist, High-Frequency Hacker*).
+- ** 6 Tropical & Cyber Themes**:
   - *Goa Sunset* (Warm Orange to Magenta)
   - *Cyber Neon* (Violet to Cyan)
   - *Emerald Matrix* (Green to Mint)
   - *Solana Purple* (Electric Purple to Blue)
   - *Gold Sovereign* (Amber to Yellow Gold)
   - *Midnight Stealth* (Monochrome Dark Slate)
-- **🪞 3D Interactive Parallax Tilt**: Mouse and touch-reactive physics tilt with specular holographic glare.
-- **🚀 1-Click Export & Share**:
+- ** 3D Interactive Parallax Tilt**: Mouse and touch-reactive physics tilt with specular holographic glare.
+- ** 1-Click Export & Share**:
   - **4K Ultra-Crisp PNG Download** via `html-to-image` at 3x DPR.
   - **Copy Directly to Clipboard** for instant pasting in Discord/Telegram.
   - **Instant Share to X (Twitter)** with pre-composed hashtags (`#FrameInGoa`, `#HHGoa2026`).
   - **Celebratory Confetti** blast on generation and download.
-- **🌟 Community Wall of Fame**: Interactive showcase with 1-click **"Remix This Badge"** capability.
-- **☁️ Cloudinary OpenGraph Support**: Optional direct host upload for rich Twitter card previews.
+- ** Community Wall of Fame**: Interactive showcase with 1-click **"Remix This Badge"** capability.
+- **️ Cloudinary OpenGraph Support**: Optional direct host upload for rich Twitter card previews.
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 - **Framework**: [React 18](https://react.dev/) + [Vite 5](https://vitejs.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
@@ -53,7 +54,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -88,7 +89,7 @@ npm run preview
 
 ---
 
-## 🌐 Deploy to Vercel
+##  Deploy to Vercel
 
 This repository is pre-configured for zero-config deployment on Vercel:
 
@@ -104,7 +105,7 @@ npx vercel
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── src/
@@ -152,7 +153,7 @@ npx vercel
 
 ---
 
-## 🌴 Community & Hashtags
+##  Community & Hashtags
 
 Share your card with:
 - `#FrameInGoa`
@@ -161,6 +162,12 @@ Share your card with:
 
 ---
 
-## 📄 License
+##  License
 
 MIT © Hacker House Goa 2026 Community.
+
+## Getting Started
+Please refer to the source files for specific installation and usage instructions. Ensure that your local environment meets the standard requirements for the associated technologies.
+
+## Project Structure
+This project is organized into standard directories. Key configuration files and primary source code are located in the root directory.
