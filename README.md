@@ -1,4 +1,4 @@
-# hh-goa-badge-generator
+# hh goa badge generator
 
 ## Overview
 > **The official, ultra-fast, zero-friction Builder Card & Profile Frame Generator for Hacker House Goa 2026.**  
